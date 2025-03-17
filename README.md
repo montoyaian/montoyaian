@@ -44,8 +44,8 @@ Systems Engineering student at the Technological University of Bolivar, currentl
 <ul>
 
 <li>
-<a href="[https://linkedin.com/in/0xabdulkhalid](https://www.linkedin.com/feed/?trk=guest_homepage-basic_nav-header-signin)" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  0xabdulkhalid-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<a href="[https://linkedin.com/in/ian](https://www.linkedin.com/feed/?trk=guest_homepage-basic_nav-header-signin)" target="_blank">
+<img src="https://img.shields.io/badge/linkedin: Ian Montoya-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
 
