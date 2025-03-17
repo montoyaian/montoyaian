@@ -10,8 +10,6 @@
 	
 ## About Me 
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
-
 <br>
 
 Systems Engineering student at the Technological University of Bolivar, currently in the ninth semester. Trained in the Intermediate Artificial Intelligence Bootcamp, power bi career accelerator with experience in the development of specialized backend software, using technologies such as Spring Boot and FastAPI. with knowledge in relational database management, as well as experience in the use of containerization tools such as Docker.
