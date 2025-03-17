@@ -30,7 +30,8 @@ Systems Engineering student at the Technological University of Bolivar, currentl
 <p align="center">
 
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,github,git,docker,fastapi,mysql,sklearn,terraform,spring)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,github,git,docker,fastapi,mysql,sklearn,terraform,spring,azure)](https://skillicons.dev)
+<img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/PNG/Power-BI.png" alt="Power BI Logo" width="100"/>
 
 </p>
 
@@ -100,11 +101,7 @@ Systems Engineering student at the Technological University of Bolivar, currentl
 <br>
 <br>
 
-<div align='center'>
 
-## <b>السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ...✨</b>
-
-</div>
 <br>
 <br>
 <br>
@@ -112,8 +109,4 @@ Systems Engineering student at the Technological University of Bolivar, currentl
 
 ---
 
-<br>
 
-Credit: [Abdul Khalid](https://github.com/0xabdulkhalid)
-
-Last Edited on: 09/11/2022
