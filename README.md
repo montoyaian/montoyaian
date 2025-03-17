@@ -44,7 +44,7 @@ Systems Engineering student at the Technological University of Bolivar, currentl
 <ul>
 
 <li>
-  <a href="https://www.linkedin.com/in/Ian montoya" target="_blank">
+  <a href="www.linkedin.com/in/ian-montoya-5b7767323" target="_blank">
     <img src="https://img.shields.io/badge/linkedin:-Ian_Montoya-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;"/>
   </a>
 </li>
