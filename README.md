@@ -31,7 +31,7 @@ Systems Engineering student at the Technological University of Bolivar, currentl
 
 
 [![My Skills](https://skillicons.dev/icons?i=python,java,github,git,docker,fastapi,mysql,sklearn,terraform,spring,azure)](https://skillicons.dev)
-<img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/PNG/Power-BI.png" alt="Power BI Logo" width="50"/>
+<img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/PNG/Power-BI.png" alt="Power BI Logo" width="30"/>
 
 </p>
 
