@@ -30,7 +30,7 @@ Systems Engineering student at the Technological University of Bolivar, currentl
 <p align="center">
 
 
-[![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,G¿github,git,docker,fastapi,mysql,sklearn,terraform,spring)](https://skillicons.dev)
 
 </p>
 
